@@ -1,8 +1,7 @@
 package com.cc.java;
 
-public interface Flyable{
+public interface Flyable {
 
-    public String fly();
-        
-    
+    public abstract String fly();  
+
 }

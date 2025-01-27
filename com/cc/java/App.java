@@ -6,6 +6,8 @@ public class App {
 
         Bird bird = new Bird();
         output(bird.fly());
+        output(bird.hasFeathers());
+      
      
     }
 
@@ -16,4 +18,3 @@ public class App {
 
 
 }
-
